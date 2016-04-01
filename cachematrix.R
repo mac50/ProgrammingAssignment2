@@ -1,5 +1,5 @@
-## This assignment consists of a closure to store and retrieve a matrix and its inverse, and a companiion function that actually computes the inverse
-##if it has not yet been done.
+## This assignment consists of a closure to store and retrieve a matrix and its inverse, 
+##and a companiion function that actually computes the inverse if it has not yet been done.
 
 ## makecacheMatrix is a closure that contains four functions for matrix storage and retrival
 ##note that as a closure it will store both the matrix and its inverse since the executing environment
